@@ -14,26 +14,8 @@
 # 💫 About Me:
 Hi, I’m Ayush, a passionate student and builder who loves turning ideas into real-world projects. I enjoy working across software, electronics, and creative media, combining technology and innovation to solve practical problems.<br><br>I have hands-on experience in robotics, Arduino, Raspberry Pi, NodeMCU, circuit design, and CAD, along with strong skills in video editing, graphic design, branding, and digital content creation.<br><br>Alongside hardware, I also explore coding and development, building small applications, experimenting with AI tools, and working on web-based projects. I enjoy learning by doing and constantly push myself to create something new and useful.<br><br>Currently, I’m focused on improving my skills in software development, AI integration, and real-world tech projects, while also exploring freelancing and startup ideas.<br><br>⚡ What I Enjoy<br>Building robotics & electronics projects<br>Developing apps and experimenting with AI<br>Designing visuals, logos, and digital content<br>Learning new technologies and turning ideas into reality
 
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+# Feeding 
+https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=guchchi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=guchchi&theme=dark&hide_border=true)<br/>
