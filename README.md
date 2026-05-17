@@ -1,2 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Paul</h1>
 <h3 align="center">Building ideas into real-world tech solutions</h3>
+
+ a passionate student and builder who loves turning ideas into real-world projects. I enjoy working across software, electronics, and creative media, combining technology and innovation to solve practical problems.<br><br>I have hands-on experience in robotics, Arduino, Raspberry Pi, NodeMCU, circuit design, and CAD, along with strong skills in video editing, graphic design, branding, and digital content creation.<br><br>Alongside hardware, I also explore coding and development, building small applications, experimenting with AI tools, and working on web-based projects. I enjoy learning by doing and constantly push myself to create something new and useful.<br><br>Currently, I’m focused on improving my skills in software development, AI integration, and real-world tech projects, while also exploring freelancing and startup ideas.<br><br>⚡ What I Enjoy<br>Building robotics & electronics projects<br>Developing apps and experimenting with AI<br>Designing visuals, logos, and digital content<br>Learning new technologies and turning ideas into reality
+
