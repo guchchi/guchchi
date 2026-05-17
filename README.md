@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyushpaul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Paul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmap8gSGDY9eZcrhr0V-myA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.ayushishere@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyushpaul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulayush) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmap8gSGDY9eZcrhr0V-myA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.ayushishere@gmail.com) 
 
 
 
@@ -14,8 +14,7 @@
 # 💫 About Me:
 Hi, I’m Ayush, a passionate student and builder who loves turning ideas into real-world projects. I enjoy working across software, electronics, and creative media, combining technology and innovation to solve practical problems.<br><br>I have hands-on experience in robotics, Arduino, Raspberry Pi, NodeMCU, circuit design, and CAD, along with strong skills in video editing, graphic design, branding, and digital content creation.<br><br>Alongside hardware, I also explore coding and development, building small applications, experimenting with AI tools, and working on web-based projects. I enjoy learning by doing and constantly push myself to create something new and useful.<br><br>Currently, I’m focused on improving my skills in software development, AI integration, and real-world tech projects, while also exploring freelancing and startup ideas.<br><br>⚡ What I Enjoy<br>Building robotics & electronics projects<br>Developing apps and experimenting with AI<br>Designing visuals, logos, and digital content<br>Learning new technologies and turning ideas into reality
 
-# Feeding 
-https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=guchchi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=guchchi&theme=dark&hide_border=true)<br/>
